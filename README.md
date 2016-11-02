@@ -1,0 +1,2 @@
+# csSolutionRepo
+for C# projects
